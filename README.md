@@ -19,7 +19,7 @@ The current source targets `2.1.0`. It is not identified here as a tagged GitHub
 Use the [skills CLI](https://github.com/vercel-labs/skills) for supported agents:
 
 ```text
-npx skills add Leonxlnx/unlazy
+npx skills add cyberk1d.exe/unlazy
 ```
 
 Add `-g` for a user-level install or `--all` for every detected agent.

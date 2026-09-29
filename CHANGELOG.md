@@ -76,24 +76,24 @@ This section describes the current source tree. It does not claim that `2.1.0` h
 
 ### Community work integrated
 
-- [#2](https://github.com/Leonxlnx/unlazy/pull/2): re-verification, parser diagnostics, CRLF preservation, evidence insertion, fenced-example handling, and validation ideas
-- [#3](https://github.com/Leonxlnx/unlazy/pull/3): the explicit-file positional fix
-- [#5](https://github.com/Leonxlnx/unlazy/pull/5): rolling dispatch and bounded `--jobs`
-- [#8](https://github.com/Leonxlnx/unlazy/pull/8): stable hook identification and moved-install repair
-- [#9](https://github.com/Leonxlnx/unlazy/pull/9): explicit approval for executable checks
-- [#10](https://github.com/Leonxlnx/unlazy/pull/10): scoped pipelines, shared parsing, ownership leases, session routing, and the first regression suite
-- [#14](https://github.com/Leonxlnx/unlazy/pull/14): the COLM 2026 test-time-scaling source
-- [#15](https://github.com/Leonxlnx/unlazy/pull/15): negative controls, supplied-number measurement, and manual-gate review guidance; the single-run risk observation is intentionally not generalized
-- [#17](https://github.com/Leonxlnx/unlazy/pull/17): the read-only gate-quality linter, JSON output, strict mode, documentation, and regression harness by Daz Alderson
-- [#18](https://github.com/Leonxlnx/unlazy/pull/18): atomic native dispatch waves, launch adapters, durable state, Stop integration, documentation, and tests by hangloose50
-- [#20](https://github.com/Leonxlnx/unlazy/pull/20): the Windows process-tree timeout diagnosis and `taskkill /t` direction by Praveen Bishnoi
-- [#24](https://github.com/Leonxlnx/unlazy/pull/24): fail-closed diagnosis of an indented `ABANDON:` by Daz Alderson
-- [#25](https://github.com/Leonxlnx/unlazy/pull/25): semantic Stop-hook progress hashing by Daz Alderson
-- [#26](https://github.com/Leonxlnx/unlazy/pull/26): shared-parser warning for ambiguous path-shaped EXPECT regexes by Daz Alderson
-- [#29](https://github.com/Leonxlnx/unlazy/pull/29): leaf-versus-branch gate placement, visible PLAN dispatch metadata, and host-neutral skill wording by mafiaboyhacker
-- [#21](https://github.com/Leonxlnx/unlazy/issues/21) and [#23](https://github.com/Leonxlnx/unlazy/issues/23): abandonment-promotion and contract-omission reports and reproducers by theislampill
-- [#30](https://github.com/Leonxlnx/unlazy/issues/30): affected-Windows descriptor/path `st_dev` mismatch report and reproduction
-- [#31](https://github.com/Leonxlnx/unlazy/issues/31): automatic-evidence definition drift report and false-green reproduction
+- [#2](https://github.com/cyberk1d.exe/unlazy/pull/2): re-verification, parser diagnostics, CRLF preservation, evidence insertion, fenced-example handling, and validation ideas
+- [#3](https://github.com/cyberk1d.exe/unlazy/pull/3): the explicit-file positional fix
+- [#5](https://github.com/cyberk1d.exe/unlazy/pull/5): rolling dispatch and bounded `--jobs`
+- [#8](https://github.com/cyberk1d.exe/unlazy/pull/8): stable hook identification and moved-install repair
+- [#9](https://github.com/cyberk1d.exe/unlazy/pull/9): explicit approval for executable checks
+- [#10](https://github.com/cyberk1d.exe/unlazy/pull/10): scoped pipelines, shared parsing, ownership leases, session routing, and the first regression suite
+- [#14](https://github.com/cyberk1d.exe/unlazy/pull/14): the COLM 2026 test-time-scaling source
+- [#15](https://github.com/cyberk1d.exe/unlazy/pull/15): negative controls, supplied-number measurement, and manual-gate review guidance; the single-run risk observation is intentionally not generalized
+- [#17](https://github.com/cyberk1d.exe/unlazy/pull/17): the read-only gate-quality linter, JSON output, strict mode, documentation, and regression harness by Daz Alderson
+- [#18](https://github.com/cyberk1d.exe/unlazy/pull/18): atomic native dispatch waves, launch adapters, durable state, Stop integration, documentation, and tests by hangloose50
+- [#20](https://github.com/cyberk1d.exe/unlazy/pull/20): the Windows process-tree timeout diagnosis and `taskkill /t` direction by Praveen Bishnoi
+- [#24](https://github.com/cyberk1d.exe/unlazy/pull/24): fail-closed diagnosis of an indented `ABANDON:` by Daz Alderson
+- [#25](https://github.com/cyberk1d.exe/unlazy/pull/25): semantic Stop-hook progress hashing by Daz Alderson
+- [#26](https://github.com/cyberk1d.exe/unlazy/pull/26): shared-parser warning for ambiguous path-shaped EXPECT regexes by Daz Alderson
+- [#29](https://github.com/cyberk1d.exe/unlazy/pull/29): leaf-versus-branch gate placement, visible PLAN dispatch metadata, and host-neutral skill wording by mafiaboyhacker
+- [#21](https://github.com/cyberk1d.exe/unlazy/issues/21) and [#23](https://github.com/cyberk1d.exe/unlazy/issues/23): abandonment-promotion and contract-omission reports and reproducers by theislampill
+- [#30](https://github.com/cyberk1d.exe/unlazy/issues/30): affected-Windows descriptor/path `st_dev` mismatch report and reproduction
+- [#31](https://github.com/cyberk1d.exe/unlazy/issues/31): automatic-evidence definition drift report and false-green reproduction
 
 ## 2.0.0 source milestone, 2026-08-10
 
