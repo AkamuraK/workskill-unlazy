@@ -1,6 +1,6 @@
 <div align="center">
 
-# unlazy
+# workskill-unlazy
 
 **Completion discipline for substantial AI-agent work, backed by runnable gates.**
 
@@ -12,7 +12,7 @@ Write the acceptance ledger first. Execute reviewed checks. Reverify returned wo
 
 ## Version status
 
-The current source targets `2.1.0`. It is not identified here as a tagged GitHub release. Pin an exact commit when you need an immutable installation. See [CHANGELOG.md](CHANGELOG.md) for the unreleased change set.
+The current source targets `2.1.1`. It is not identified here as a tagged GitHub release. Pin an exact commit when you need an immutable installation. See [CHANGELOG.md](CHANGELOG.md) for the unreleased change set.
 
 ## Install
 
